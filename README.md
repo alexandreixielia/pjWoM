@@ -1,0 +1,2 @@
+# pjWoM
+customer publishing repository
